@@ -1,0 +1,8 @@
+.DS_Store
+/.build
+/.build-ubuntu
+/Packages
+/config.json
+/spec.json
+/standalone_iOS_SDK*
+./config/localdev-config.json

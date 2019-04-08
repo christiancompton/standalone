@@ -1,0 +1,3 @@
+.build/							usr/src/standalone
+terraform/scripts/install.sh	usr/src/standalone
+terraform/scripts/start.sh		usr/src/standalone
